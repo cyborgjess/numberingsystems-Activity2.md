@@ -1,0 +1,15 @@
+
+1. Thought Process 
+
+
+
+2. Challenges
+
+Recall or reference ASCII values for each letter
+Planning the steps to convert requires high attention to detail
+Dividing by 2 repeatedly & reversing remainders correctly was tedious & complicated
+
+
+3. Code
+jess = Hexadecimal
+87 = 01010111 Binary
